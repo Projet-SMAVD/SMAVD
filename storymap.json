@@ -1,0 +1,1770 @@
+{
+  "title": {
+    "text": {
+      "headline": "Évolution des structures membres du SMAVD",
+      "text": "De 1976 à 2025"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Création du SMAVD",
+        "text": "Membres fondateurs : 13 et 84"
+      },
+      "location": {
+    "lat": 44.0,
+    "lon": 6.0,
+    "zoom": 8
+  }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Fusion SMAVD – SMPRD",
+        "text": "Extension du périmètre"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Substitution EPCI (05)",
+        "text": "Représentation-substitution dans les Hautes-Alpes"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Réforme GEMAPI",
+        "text": "Substitution de tous les EPCI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réforme statutaire",
+        "text": "Retour possible des communes"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025
+      },
+      "text": {
+        "headline": "Étude préfigurative Haute Durance",
+        "text": "Nouveaux partenariats"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Alpes de Haute Provence",
+        "text": "département – Code : 4"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Hautes Alpes",
+        "text": "département – Code : 5"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Bouches-du-Rhône",
+        "text": "département – Code : 13"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Vaucluse",
+        "text": "département – Code : 84"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Aubignosc",
+        "text": "commune – Code : 4013"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Aubignosc",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : La Bréole",
+        "text": "commune – Code : 4033"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : La Bréole",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : la Brillanne",
+        "text": "commune – Code : 4034"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : la Brillanne",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Claret",
+        "text": "commune – Code : 4058"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Claret",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Corbières",
+        "text": "commune – Code : 4063"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Corbières",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Corbières",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Entrepierres",
+        "text": "commune – Code : 4075"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Entrepierres",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Ganagobie",
+        "text": "commune – Code : 4091"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Ganagobie",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Gréoux-les-Bains",
+        "text": "commune – Code : 4094"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Gréoux-les-Bains",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Lurs",
+        "text": "commune – Code : 4106"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Lurs",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Manosque",
+        "text": "commune – Code : 4112"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Manosque",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Manosque",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Les Mées",
+        "text": "commune – Code : 4116"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Les Mées",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Réintégration : Les Mées",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Mison",
+        "text": "commune – Code : 4123"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Mison",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Oraison",
+        "text": "commune – Code : 4143"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Oraison",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Oraison",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Piégut",
+        "text": "commune – Code : 4150"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Piégut",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Sainte Tulle",
+        "text": "commune – Code : 4197"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Sainte Tulle",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Salignac",
+        "text": "commune – Code : 4200"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Salignac",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Salignac",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Sigoyer",
+        "text": "commune – Code : 4207"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Sigoyer",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Sigoyer",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Sisteron",
+        "text": "commune – Code : 4209"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Sisteron",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Thèze",
+        "text": "commune – Code : 4216"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Thèze",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Valensole",
+        "text": "commune – Code : 4230"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Valensole",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Valernes",
+        "text": "commune – Code : 4231"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Valernes",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Venterol",
+        "text": "commune – Code : 4234"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Venterol",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Réintégration : Venterol",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Villeneuve",
+        "text": "commune – Code : 4242"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Villeneuve",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Villeneuve",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Volx",
+        "text": "commune – Code : 4245"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Volx",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Bréziers",
+        "text": "commune – Code : 5022"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Bréziers",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Espinasses",
+        "text": "commune – Code : 5050"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Espinasses",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "text": {
+        "headline": "Adhésion : Lardier et Valença",
+        "text": "commune – Code : 5071"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Adhésion : Lettret",
+        "text": "commune – Code : 5074"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Adhésion : Le Poet",
+        "text": "commune – Code : 5103"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Remollon",
+        "text": "commune – Code : 5115"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Remollon",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Rochebrune",
+        "text": "commune – Code : 5121"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Rochebrune",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Réintégration : Rochebrune",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Rousset",
+        "text": "commune – Code : 5127"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Rousset",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Adhésion : Tallard",
+        "text": "commune – Code : 5170"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Théus",
+        "text": "commune – Code : 5171"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Théus",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Valserres",
+        "text": "commune – Code : 5176"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Valserres",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Adhésion : Ventavon",
+        "text": "commune – Code : 5178"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Barbentane",
+        "text": "commune – Code : 13010"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Barbentane",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Cabannes",
+        "text": "commune – Code : 13018"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Cabannes",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Charleval",
+        "text": "commune – Code : 13024"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Charleval",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Charleval",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Chateaurenard",
+        "text": "commune – Code : 13027"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Chateaurenard",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Réintégration : Chateaurenard",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Jouques",
+        "text": "commune – Code : 13048"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Jouques",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2023
+      },
+      "text": {
+        "headline": "Réintégration : Jouques",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Mallemort",
+        "text": "commune – Code : 13053"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Mallemort",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Mallemort",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Meyrargues",
+        "text": "commune – Code : 13059"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Meyrargues",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2024
+      },
+      "text": {
+        "headline": "Réintégration : Meyrargues",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Noves",
+        "text": "commune – Code : 13066"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Noves",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Orgon",
+        "text": "commune – Code : 13067"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Orgon",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Réintégration : Orgon",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Peyrolles-en-Provence",
+        "text": "commune – Code : 13074"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Peyrolles-en-Provence",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Peyrolles-en-Provence",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Plan d'Orgon",
+        "text": "commune – Code : 13076"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Plan d'Orgon",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Plan d'Orgon",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Le Puy Sainte Réparade",
+        "text": "commune – Code : 13080"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Le Puy Sainte Réparade",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Réintégration : Le Puy Sainte Réparade",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Rognonas",
+        "text": "commune – Code : 13083"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Rognonas",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : La Roque d'Anthéron",
+        "text": "commune – Code : 13084"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : La Roque d'Anthéron",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : La Roque d'Anthéron",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Saint Andiol",
+        "text": "commune – Code : 13089"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Saint Andiol",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Saint Estève Janson",
+        "text": "commune – Code : 13093"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Saint Estève Janson",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Réintégration : Saint Estève Janson",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Saint Paul lez Durance",
+        "text": "commune – Code : 13099"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Saint Paul lez Durance",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Réintégration : Saint Paul lez Durance",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Sénas",
+        "text": "commune – Code : 13105"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Sénas",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Sénas",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Vinon sur Verdon",
+        "text": "commune – Code : 83150"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Vinon sur Verdon",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Avignon",
+        "text": "commune – Code : 84007"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Avignon",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2021
+      },
+      "text": {
+        "headline": "Réintégration : Avignon",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Beaumont de Pertuis",
+        "text": "commune – Code : 84014"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Beaumont de Pertuis",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Cadenet",
+        "text": "commune – Code : 84026"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Cadenet",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Caumont sur Durance",
+        "text": "commune – Code : 84034"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Caumont sur Durance",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Caumont sur Durance",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Cavaillon",
+        "text": "commune – Code : 84035"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Cavaillon",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Cheval Blanc",
+        "text": "commune – Code : 84038"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Cheval Blanc",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2022
+      },
+      "text": {
+        "headline": "Réintégration : Cheval Blanc",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Lauris",
+        "text": "commune – Code : 84065"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Lauris",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Lauris",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Mérindol",
+        "text": "commune – Code : 84074"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Mérindol",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Mérindol",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Mirabeau",
+        "text": "commune – Code : 84076"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Mirabeau",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Pertuis",
+        "text": "commune – Code : 84089"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Pertuis",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Pertuis",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1976
+      },
+      "text": {
+        "headline": "Adhésion : Puget sur Durance",
+        "text": "commune – Code : 84093"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Puget sur Durance",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Puyvert",
+        "text": "commune – Code : 84095"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Puyvert",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1980
+      },
+      "text": {
+        "headline": "Adhésion : Villelaure ",
+        "text": "commune – Code : 84147"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2017
+      },
+      "text": {
+        "headline": "Fin d’adhésion : Villelaure ",
+        "text": "Fin d’adhésion suite à la réforme GEMAPI"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2020
+      },
+      "text": {
+        "headline": "Réintégration : Villelaure ",
+        "text": "Retour après la réforme statutaire de 2020"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Durance Luberon Verdon",
+        "text": "EPCI – Code : 200034700"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Terre de Provence",
+        "text": "EPCI – Code : 200035087"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Provence Verdon",
+        "text": "EPCI – Code : 200040202"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Luberon Monts de Vaucluse",
+        "text": "EPCI – Code : 200040442"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Aix Marseille Provence",
+        "text": "EPCI – Code : 200054807"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Serre Ponçon Val d'Avance",
+        "text": "EPCI – Code : 200067320"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Provence Alpes Agglo",
+        "text": "EPCI – Code : 200067437"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Guillestrois Queyras",
+        "text": "EPCI – Code : 200067452"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Pays de Serre Ponçon",
+        "text": "EPCI – Code : 200067742"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Serre Ponçon",
+        "text": "EPCI – Code : 200067742"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Gap Tallard Durance",
+        "text": "EPCI – Code : 200067825"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Adhésion : Com Com du Sisteronais",
+        "text": "EPCI – Code : 240400283"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Sisteronais Buech",
+        "text": "EPCI – Code : 200068765"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Com com Jabron Lure Vançon Durance",
+        "text": "EPCI – Code : 200071033"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Vallée de l'Ubaye Serre Ponçon",
+        "text": "EPCI – Code : 200072304"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Moyenne Durance",
+        "text": "EPCI – Code : 240400291"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Com com Pays de Forcalquier Montagne de Lure",
+        "text": "EPCI – Code : 240400440"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Tallard Barcillonnette",
+        "text": "EPCI – Code : 240500314"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Laragnais",
+        "text": "EPCI – Code : 240500389"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025
+      },
+      "text": {
+        "headline": "Adhésion : Com Com du Briançonnais",
+        "text": "EPCI – Code : 240500439"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2025
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Pays des Ecrins",
+        "text": "EPCI – Code : 240500462"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2006
+      },
+      "text": {
+        "headline": "Adhésion : Com Com Vallée de l'Avance",
+        "text": "EPCI – Code : 240500470"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Grand Avignon",
+        "text": "EPCI – Code : 248400251"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2018
+      },
+      "text": {
+        "headline": "Adhésion : Com com Sud Luberon",
+        "text": "EPCI – Code : 248400285"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2005
+      },
+      "text": {
+        "headline": "Adhésion : Provence Alpes Côte d'Azur",
+        "text": "région – Code : null"
+      }
+    }
+  ]
+}
